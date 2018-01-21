@@ -27,7 +27,7 @@
         android:inputType="textPersonName"
         android:text="Name"
         app:layout_constraintTop_toBottomOf="@+id/txtShowName"
-        tools:layout_editor_absoluteX="84dp" />
+         />
 
     <TimePicker
         android:id="@+id/timePicker"
